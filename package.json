@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Newton Ombese",
 	"description": "Learning coding is all I wanna do always",
+	"keywords": ["freecodecamp","newton","software Engineering"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
