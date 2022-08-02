@@ -3,6 +3,7 @@
 	"author":"Newton Ombese",
 	"description": "Learning coding is all I wanna do always",
 	"keywords": ["freecodecamp","newton","software Engineering"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
