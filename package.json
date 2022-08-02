@@ -4,6 +4,7 @@
 	"description": "Learning coding is all I wanna do always",
 	"keywords": ["freecodecamp","newton","software Engineering"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
